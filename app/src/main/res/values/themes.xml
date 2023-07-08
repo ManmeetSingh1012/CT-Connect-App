@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CTStudentConnectApp" parent="android:Theme.Material.NoActionBar" >
+
+        <item name="android:statusBarColor">@color/ctblue</item>
+
+        <!-- enable window content transitions -->
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+
+
+
+
+</resources>
+
+
